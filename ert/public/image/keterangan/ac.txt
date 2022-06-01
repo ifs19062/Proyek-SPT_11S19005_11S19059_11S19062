@@ -1,0 +1,5 @@
+Kapasitas AC : 1.5 PK
+Tipe Refrigerant : R-32
+Daya Listrik (Watt) : 934 Watt
+Kapasitas Pendinginan : 11100 BTU/h
+Berat Indoor + Outdoor : 39 Kg
