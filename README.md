@@ -6,5 +6,6 @@ Tujuan dari pembuatan layanan berbasis web Pemesanan Alat Elektronik Rumah Tangg
 
 
 
-#### Source Code aplikasi dapat dilihat pada folder yang bernama ert
-#### Dokumen SRS dan Panduan menjalankan aplikasi dapat dilihat di dalam folder Dokumen
+
+#### * Source Code aplikasi dapat dilihat pada folder yang bernama ert
+#### * Dokumen SRS dan Panduan menjalankan aplikasi dapat dilihat di dalam folder Dokumen
